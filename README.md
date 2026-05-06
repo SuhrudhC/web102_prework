@@ -92,3 +92,5 @@ GIF created with [Kap](https://getkap.co/) for macOS
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+Loom video: https://www.loom.com/share/9ec9ba06662446c1a37ca9eb55431aea 
